@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 
 
 # Load data
-file_path = r'E:\samyak\6th-Sem\BIS\Lab_2_Data.csv'
+file_path = r'E:\samyak\6th-Sem\6th-Sem\BIS\Lab_2_Data.csv'
 data = pd.read_csv(file_path)
 
 
